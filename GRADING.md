@@ -32,7 +32,7 @@ This section gauges the progress of the student in terms of repository managemen
 
 - **Repository Check**: Verify the existence of the repository and its contents to confirm the student's engagement with the project.
 - **Commit Analysis**: Examine the commit history for patterns of work and consistency, reflecting the student's workflow and time management.
-- **Deadline Adherence**: Assess whether the project was completed on time or if an extension was justified and used effectively.
+- **Deadline Adherence**: Verify whether the project was completed on time or within an agreed deadline.
 
 ## Functionality
 
