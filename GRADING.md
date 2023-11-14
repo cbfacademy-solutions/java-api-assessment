@@ -1,4 +1,4 @@
-# Assessment Grading Guide for API Development with Java 17 & SpringBoot
+# Assessment Grading Guide for API Development with Java 17 & Spring Boot
 
 Welcome to the grading guide for the API Development Assessment. This guide has been meticulously designed to ensure a clear, consistent, and comprehensive evaluation of students' projects. As an assessor, you'll find a rubric below that breaks down the evaluation criteria into four distinct sections: 
 - Completion
@@ -72,7 +72,7 @@ This section assesses the integrity and organisation of the code. It evaluates r
 
 - **Readability and Maintainability**: Review the code for clear naming conventions, logical structuring, and the inclusion of comments where necessary.
 - **Efficiency**: Evaluate if the code is not only functional but also written in a way that is efficient and optimised for performance.
-- **Best Practices**: Ensure that the code adheres to Java and SpringBoot best practices, including the use of proper annotations and dependency management.
+- **Best Practices**: Ensure that the code adheres to Java and Spring Boot best practices, including the use of proper annotations and dependency management.
 
 ---
 
