@@ -55,18 +55,18 @@ Functionality pertains to how the API behaves. Does it work? Is it user-friendly
 
 ---
 
-## Code Quality & Structure
+## Solution Quality
 
-This section assesses the integrity and organisation of the code. It evaluates readability, maintainability, efficiency, modularity, and adherence to Java + Spring Boot coding standards.
+This section assesses the integrity and organisation of the code. It evaluates readability, maintainability, efficiency, modularity, and adherence to Java and Spring Boot coding standards.
 
-| **Score** | **Caption**                                                | **Details**                                                                                                                            |
-|-----------|------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| 0         | No adherence to guidelines or organisation                 | Code lacks structure and organisation as per Java + Spring Boot recommendations, with everything in one file or lacking clear sections. |
-| 1         | Minimal adherence, multiple errors, and organisation       | Code has basic structure and organisation but with multiple errors, lacking in modularity, inheritance, and proper exception handling. |
-| 2         | Decent structure, needs optimisation and better structure  | Organised code with clear separation of concerns but requires significant improvement in algorithm, unit testing, and modularity.      |
-| 3         | Good overall but needs refactoring and better documentation | Mostly consistent structure with Java + Spring Boot standards but needs refining and additional documentation.                          |
-| 4         | Very good, minor improvements in structure needed          | Nearly aligns perfectly with guidelines, showing clear modularity and organisation but may have minor areas for improvement.           |
-| 5         | Perfectly structured and organised as per guidelines       | Exemplary code that aligns perfectly with Java + Spring Boot recommendations, demonstrating clear modularity and comprehensive documentation. |
+| **Score** | **Caption**                                                    | **Details**                                                                                                                                            |
+| --------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0         | Solution does not compile                                      | Code is missing, incomplete or contains compile-time errors that prevent it from building.                                                             |
+| 1         | Solution compiles, but with warnings                           | IDE and/or compiler raises multiple warnings, indicating highly sub-optimal implementation.                                                            |
+| 2         | Solution compiles successfully, but is poorly structured       | Code is free of errors or warnings, but is hard to navigate, doesn't use packages effectively, etc.                                                    |
+| 3         | Solution is reasonably structured, but in need of refactoring  | Code is fairly organised but has overweight classes/methods, inconsistent/unintuitive naming conventions, etc.                                         |
+| 4         | Solution is well structured, but has some room for improvement | Code demonstrates principles like DRY, SRP, encapsulation and clear naming conventions, but could have better testing, formatting, documentation, etc. |
+| 5         | Solution consistently demonstrates best practices              | Exemplary code that closely follows recommended Java and Spring Boot conventions, with thorough test coverage and comprehensive documentation.         |
 
 ### Tips
 
@@ -83,7 +83,7 @@ This section evaluates students' Java coding capabilities, focussing on the robu
 | **Score** | **Caption**                 | **Details for Assessors**                                                                                                                                                                        |
 | --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 0         | No Demonstrable Proficiency | No code has been submitted for evaluation.                                                                                                                                                       |
-| 1         | Minimal Proficiency         | Ignores errors/warnings, provides no effective exception handling, only basic data structures and control flows used, indicating only a rudimentary understanding.                                      |
+| 1         | Minimal Proficiency         | Provides no effective exception handling, only basic data structures and control flows used, indicating only a rudimentary understanding.                                      |
 | 2         | Basic Proficiency           | Implements basic error handling with simple try-catch blocks and uses standard data structures. However, there's limited usage of built-in Java packages.           |
 | 3         | Intermediate Proficiency    | Includes competent error handling, utilises efficient data structures and demonstrates good Java coding practices, making appropriate use of platform packages.         |
 | 4         | Advanced Proficiency        | Exhibits advanced exception handling techniques like custom exceptions, with effective use of third-party packages. Demonstrates deep understanding of Java concepts and efficient coding. |
