@@ -38,14 +38,14 @@ This section gauges the progress of the student in terms of repository managemen
 
 Functionality pertains to how the API behaves. Does it work? Is it user-friendly? Does it meet all the required technical specifications? This section evaluates the API's ability to function correctly and efficiently, meeting all set criteria.
 
-| **Score** | **Caption**                                           | **Details**                                                                                                                                                                                        |
-|-----------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0         | No working functionality                             | The API has no operational endpoints.                                                                                                                                                              |
-| 1         | Basic API with significant errors                    | The API has some functionality but is plagued by errors and does not meet all requirements.                                                                                                        |
-| 2         | API mostly functional, missing some key requirements | For instance, the algorithm might be implemented but no unit testing is done.                                                                                                                      |
-| 3         | API functional, meets most requirements              | Only one or two of the listed criteria (like CRUD operations or exception handling) are missing or poorly executed.                                                                                |
-| 4         | API fully functional, minor improvements needed      | All criteria are met but some areas, such as documentation or HTTP protocol usage, could use refinement.                                                                                          |
-| 5         | API is robust, user-friendly, and meets all requirements | All criteria, from algorithm implementation to good documentation, are perfectly executed.                                                                                                          |
+| **Score** | **Caption**                                                                     | **Details**                                                                                              |
+| --------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 0         | No working functionality                                                        | The API has no operational endpoints.                                                                    |
+| 1         | API is only partially functional                                                | The API has limited functionality and only meets a few requirements.                                     |
+| 2         | API is mostly functional, but missing some key requirements                     | For instance, the algorithm might be implemented but no unit testing is done.                            |
+| 3         | API is fully functional, but minor improvements needed                          | All criteria are met but some areas, such as documentation or HTTP protocol usage, could use refinement. |
+| 4         | API is robust, user-friendly, and meets all requirements                        | All criteria, from algorithm implementation to good documentation, are perfectly executed.               |
+| 5         | API fully meets all requirements and also demonstrates additional functionality | All criteria are met and the solution provides extra utility.                                            |
 
 ### Tips
 
