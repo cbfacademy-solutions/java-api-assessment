@@ -22,7 +22,7 @@ This section gauges the progress of the student in terms of repository managemen
 | **Score** | **Caption**                                          | **Details**                                        |
 |-----------|------------------------------------------------------|----------------------------------------------------|
 | 0         | No repository created                               | Student has not initialised any repository for the project.                                               |
-| 1         | Repository created, but no code commits             | Repository exists but lacks any code. This indicates no progress on the project.                           |
+| 1         | Repository created, but has no commit history             | Repository exists but has no commits. This indicates no progress on the project.                           |
 | 2         | Completed late without agreed extension             | Project was submitted after the deadline without any prior agreement for extension.                        |
 | 3         | Completed within agreed extension                   | Project was submitted late, but within an agreed-upon extension timeframe.                                 |
 | 4         | Completed within deadline                           | Project was submitted on time, indicating good time management.                                           |
