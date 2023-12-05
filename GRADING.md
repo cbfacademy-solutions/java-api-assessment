@@ -76,18 +76,18 @@ This section assesses the integrity and organisation of the code. It evaluates r
 
 ---
 
-## Language Proficiency Rubric for Assessors
+## Language Proficiency
 
-This section evaluates students' Java coding capabilities, focusing on the robustness of exception handling and the effectiveness of data structure usage.
+This section evaluates students' Java coding capabilities, focussing on the robustness of exception handling and the effectiveness of data structure usage.
 
-| **Score** | **Caption**                                    | **Details for Assessors**                                                                                                                                                 |
-|-----------|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0         | Non-Functional                                 | The code does not compile or run. There is no evidence of attempted exception handling or data structure usage. Assess if there is an attempt to complete the task.       |
-| 1         | Basic Functionality                            | The code compiles and runs but with minimal or ineffective exception handling. Basic data structures are used, indicating only a rudimentary understanding.               |
-| 2         | Intermediate Proficiency                       | The code runs with basic exception handling; common exceptions may be caught. Data structures are used correctly but not optimally.                                       |
-| 3         | Competent Exception Handling and Data Usage    | The code shows competent use of exception handling including some custom exceptions. Data structures are effectively used but may not be the most efficient choice.       |
-| 4         | Advanced Coding and Structure Understanding    | Exception handling is robust with clear user feedback. Data structures are well-chosen and demonstrate a good understanding of Java's Collections Framework.             |
-| 5         | Exceptional Skill and Understanding            | The code reflects exceptional skill in Java. Exception handling is comprehensive, covering all possible edge cases. Data structures are utilised optimally, showcasing excellent command over Java language features. |
+| **Score** | **Caption**                 | **Details for Assessors**                                                                                                                                                                        |
+| --------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0         | No Demonstrable Proficiency | No code has been submitted for evaluation.                                                                                                                                                       |
+| 1         | Minimal Proficiency         | Ignores errors/warnings, provides no effective exception handling, only basic data structures and control flows used, indicating only a rudimentary understanding.                                      |
+| 2         | Basic Proficiency           | Implements basic error handling with simple try-catch blocks and uses standard data structures. However, there's limited usage of built-in Java packages.           |
+| 3         | Intermediate Proficiency    | Includes competent error handling, utilises efficient data structures and demonstrates good Java coding practices, making appropriate use of platform packages.         |
+| 4         | Advanced Proficiency        | Exhibits advanced exception handling techniques like custom exceptions, with effective use of third-party packages. Demonstrates deep understanding of Java concepts and efficient coding. |
+| 5         | Exceptional Proficiency     | Reflects exemplary skill in Java, showcasing an excellent command of advanced Java language features and demonstrable research/practise beyond the scope of course material.                    |
 
 ### Tips
 
