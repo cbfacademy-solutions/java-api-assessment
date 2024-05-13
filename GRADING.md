@@ -1,4 +1,4 @@
-# Assessment Grading Guide for API Development with Java 17 & Spring Boot
+# Assessment Grading Guide for API Development with Java & Spring Boot
 
 Welcome to the grading guide for the API Development Assessment. This guide has been meticulously designed to ensure a clear, consistent, and comprehensive evaluation of students' projects. As an assessor, you'll find a rubric below that breaks down the evaluation criteria into four distinct sections: 
 - Completion
