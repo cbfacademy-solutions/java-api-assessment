@@ -10,10 +10,23 @@ Please go through each section methodically, ensuring that you understand the cr
 
 ## Table of Contents
 
+1. [Requirements](#requirements)
 1. [Completion](#completion)
 1. [Functionality](#functionality)
 1. [Code Quality & Structure](#code-quality--structure)
 1. [Language Proficiency](#language-proficiency)
+
+## Requirements
+
+Assessments will be marked based on the following requirements:
+
+1. At least one filterable endpoint using a Spring Data JPA query method (custom or derived)
+2. Unit tests for at least one class
+3. Data storage in a MySQL database
+4. Exception handling 
+5. Evidence of inheritance
+6. Good use of HTTP Protocols - methods, request and response, have full CRUD operations supported 
+7. Documentation
 
 ## Completion
 
@@ -42,9 +55,9 @@ Functionality pertains to how the API behaves. Does it work? Is it user-friendly
 | --------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | 0         | No working functionality                                                        | The API has no operational endpoints.                                                                    |
 | 1         | API is only partially functional                                                | The API has limited functionality and only meets a few requirements.                                     |
-| 2         | API is mostly functional, but missing some key requirements                     | For instance, the algorithm might be implemented but no unit testing is done.                            |
+| 2         | API is mostly functional, but missing some key requirements                     | For instance, the filtered endpoint might be implemented but no unit testing is done.                            |
 | 3         | API is fully functional, but minor improvements needed                          | All criteria are met but some areas, such as documentation or HTTP protocol usage, could use refinement. |
-| 4         | API is robust, user-friendly, and meets all requirements                        | All criteria, from algorithm implementation to good documentation, are perfectly executed.               |
+| 4         | API is robust, user-friendly, and meets all requirements                        | All criteria, from endpoint implementation to good documentation, are perfectly executed.               |
 | 5         | API fully meets all requirements and also demonstrates additional functionality | All criteria are met and the solution provides extra utility.                                            |
 
 ### Tips
